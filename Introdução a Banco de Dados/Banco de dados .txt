@@ -1,0 +1,19 @@
+link para download do BD SQL 
+https://postgresql.en.softonic.com/
+O que PostgreeSQL?
+Sistema Gerenciador de Banco de Dados.
+
+Principais características :
+
+Natureza de autodescrição de um sistema de BD;
+Isolamento entre programas e dados, abstração de dados;
+Suporte de múltiplas visões dos dados;
+Compartilhamento de dados e processamento de transição multiusuários.
+
+Vantagens de se usar a abrdagem SGBD
+
+ Controle de redudância;
+ Normalização de Dados;
+ Restringindo o acesso não autorizado; 
+ Software privilegiado;   
+
